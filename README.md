@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-## 📌 Selected Projects
+## Selected Projects
 
 <div align="center">
 
@@ -41,15 +41,15 @@
 
 </div>
 
-**Credit Card Fraud Detection** — SMOTE for class imbalance, Logistic Regression / Random Forest / XGBoost compared on ROC-AUC and recall (not accuracy) against a 0.17%-positive dataset.
+**Credit Card Fraud Detection** : SMOTE for class imbalance, Logistic Regression / Random Forest / XGBoost compared on ROC-AUC and recall (not accuracy) against a 0.17%-positive dataset.
 
-**IPL Auction Price Prediction** — EDA on historical auction data, predicting winning bid amounts and team classification.
+**IPL Auction Price Prediction** : EDA on historical auction data, predicting winning bid amounts and team classification.
 
-**N-Body Simulation** — Python wrapper around a C-based N-body physics simulation.
+**N-Body Simulation** : Python wrapper around a C-based N-body physics simulation.
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
