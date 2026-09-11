@@ -1,47 +1,63 @@
-### Hi, I'm Yash 👋
+<div align="center">
 
-I build machine learning projects end-to-end — from messy data to evaluated, compared models.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yash%20Dodiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-**Currently focused on:**
-- Imbalanced classification & fraud detection
-- Predictive modeling on real-world tabular data
-- Scientific computing (C + Python interop)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Science;Python+%7C+scikit-learn+%7C+XGBoost;Building+end-to-end+model+pipelines" alt="Typing SVG"/>
 
----
+<br/>
 
-### Selected Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dodiya-416407290)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodiyayash28@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=yashdodiya9&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
 
-**[Credit Card Fraud Detection](https://github.com/yashdodiya9/credit-card-fraud-detection)**
-Detects fraudulent transactions in a highly imbalanced dataset (492 fraud / 284,807 total). Used SMOTE for class balancing and compared Logistic Regression, Random Forest, and XGBoost — evaluated on ROC-AUC and recall rather than accuracy.
-`Python` `scikit-learn` `XGBoost` `imbalanced-learn`
+</div>
 
-**[IPL Auction Price Prediction](https://github.com/yashdodiya9/ipl-auction-price-prediction)**
-EDA and ML pipeline on historical IPL auction data — analyzing player pricing trends and team spending, then predicting winning bid amounts and team classification.
-`Python` `pandas` `scikit-learn`
+<br/>
 
-**[N-Body Simulation — Python Wrapper](https://github.com/yashdodiya9/nbody-simulation-python-wrapper)**
-Python interface around a C-based N-body simulation for particle dynamics, built to make the underlying simulation callable and testable from Python.
-`C` `Python`
+## 🔧 Tech Stack
 
----
+<div align="center">
 
-### Tech Stack
+<img src="https://skillicons.dev/icons?i=py,c,sklearn,numpy,pandas,git,jupyter,linux" />
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
----
+<br/>
 
-### GitHub Stats
+## 📌 Selected Projects
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashdodiya9&show_icons=true&theme=default&hide_border=true)
+<div align="center">
 
----
+<a href="https://github.com/yashdodiya9/credit-card-fraud-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=credit-card-fraud-detection&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/yashdodiya9/ipl-auction-price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=ipl-auction-price-prediction&theme=default&hide_border=true" />
+</a>
 
-📫 [LinkedIn](https://www.linkedin.com/in/yash-dodiya-416407290) · dodiyayash28@gmail.com
+<a href="https://github.com/yashdodiya9/nbody-simulation-python-wrapper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=nbody-simulation-python-wrapper&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+**Credit Card Fraud Detection** — SMOTE for class imbalance, Logistic Regression / Random Forest / XGBoost compared on ROC-AUC and recall (not accuracy) against a 0.17%-positive dataset.
+
+**IPL Auction Price Prediction** — EDA on historical auction data, predicting winning bid amounts and team classification.
+
+**N-Body Simulation** — Python wrapper around a C-based N-body physics simulation.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashdodiya9&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdodiya9&layout=compact&theme=default&hide_border=true" width="35%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
