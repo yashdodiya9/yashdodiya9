@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,sklearn,numpy,pandas,git,jupyter,linux" />
+<img src="https://skillicons.dev/icons?i=py,c,sklearn,numpy,pandas,git,jupyter" />
 
 </div>
 
