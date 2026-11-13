@@ -1,63 +1,57 @@
-<div align="center">
+# Yash Dodiya
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yash%20Dodiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+B.Tech student in Space Science and Engineering at IIT Indore (2023–2027), looking for full-time AI/ML Engineer, LLM/GenAI and Data Science roles.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Science;Python+%7C+scikit-learn+%7C+XGBoost;Building+end-to-end+model+pipelines" alt="Typing SVG"/>
+I build ML systems end to end: data and simulation, model training, evaluation, and serving through APIs. My research is deep learning on radio-astronomy data, and my current engineering project is a guarded natural-language-to-SQL service.
 
-<br/>
+## Selected Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dodiya-416407290)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodiyayash28@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yashdodiya9&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+### LLM and applied AI
 
-</div>
+**[GuardSQL](https://github.com/yashdodiya9/GuardSQL)** (in progress)
+Natural-language-to-SQL service built with FastAPI and PostgreSQL. LLM-generated queries pass through SQL guardrails before execution, and every request is audit-logged. Still to do: evaluation harness, cost optimization, deployment.
+`Python` `FastAPI` `PostgreSQL`
 
-<br/>
+<!-- Uncomment once the repo is public
+**[LangGraph human-in-the-loop chatbot](https://github.com/yashdodiya9/REPO-NAME)**
+Streamlit chatbot built on LangGraph with a human-in-the-loop step, backed by PostgreSQL.
+`Python` `LangGraph` `Streamlit` `PostgreSQL`
+-->
 
-## Tech Stack
+### Deep learning and research
 
-<div align="center">
+**Fast Radio Burst detection with CNNs** (BTP, guide: Prof. Mukul Bhattacharya)
+Simulated FRBs with fitburst (parameters sampled from the CHIME/FRB Catalog 2) and RFI/noise, then trained a PyTorch CNN to classify 256x256 dynamic spectra. About 0.99 F1 on simulated data, averaged over 5 seeds. Ongoing work: more realistic RFI and evaluation beyond simulation.
+`Python` `PyTorch` `Computer Vision`
 
-<img src="https://skillicons.dev/icons?i=py,c,sklearn,numpy,pandas,git,jupyter" />
+**[nbody_python](https://github.com/yashdodiya9/nbody_python)**
+N-body simulation written in C, with a Python wrapper around the compiled library.
+`C` `Python`
 
-</div>
+### Machine learning and data
 
-<br/>
+**[credit-card-fraud-detection](https://github.com/yashdodiya9/credit-card-fraud-detection)**
+Fraud detection on a highly imbalanced dataset (284,807 transactions, 0.17% fraud). Compared Logistic Regression, Random Forest and XGBoost after SMOTE, evaluated with ROC-AUC, precision and recall.
+`Python` `scikit-learn` `XGBoost`
 
-## Selected Projects
+**[IPL auction analysis](https://github.com/yashdodiya9/CFA_project)**
+Exploratory analysis of IPL auction data (spending by team, country and year) and a Random Forest model predicting winning bids, using a time-based train/test split.
+`Python` `pandas` `scikit-learn`
 
-<div align="center">
+## Skills
 
-<a href="https://github.com/yashdodiya9/credit-card-fraud-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=credit-card-fraud-detection&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/yashdodiya9/ipl-auction-price-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=ipl-auction-price-prediction&theme=default&hide_border=true" />
-</a>
+| | |
+|---|---|
+| Languages | Python, C, SQL |
+| ML and deep learning | PyTorch, scikit-learn, XGBoost, computer vision |
+| LLM applications | LangGraph, prompt-to-SQL pipelines, guardrails |
+| Data | pandas, matplotlib, seaborn, PostgreSQL, handling imbalanced data (SMOTE) |
+| Backend and tools | FastAPI, Streamlit, Git |
 
-<a href="https://github.com/yashdodiya9/nbody-simulation-python-wrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashdodiya9&repo=nbody-simulation-python-wrapper&theme=default&hide_border=true" />
-</a>
+## Education
 
-</div>
+B.Tech, Space Science and Engineering, Indian Institute of Technology Indore, 2023–2027
 
-**Credit Card Fraud Detection** : SMOTE for class imbalance, Logistic Regression / Random Forest / XGBoost compared on ROC-AUC and recall (not accuracy) against a 0.17%-positive dataset.
+## Contact
 
-**IPL Auction Price Prediction** : EDA on historical auction data, predicting winning bid amounts and team classification.
-
-**N-Body Simulation** : Python wrapper around a C-based N-body physics simulation.
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashdodiya9&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdodiya9&layout=compact&theme=default&hide_border=true" width="35%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/yash-dodiya-416407290) · dodiyayash28@gmail.com
